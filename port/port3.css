@@ -1,0 +1,33 @@
+@charset "utf-8";
+.aaa{
+	color: #F15A22
+}
+body{
+         background-image: url("images/abc.png");
+  background-size: cover;
+}
+
+.bbb{
+	float: right;
+	 text-align: right;
+        font-size: 20px;
+}
+.ccc{
+	text-align: center;
+	font-size: 35px;
+	display: inline-block;
+  	background: #F15A22;
+  	color: #ffffff;
+
+}
+.ddd{
+        font-size:25px;
+        color: #000080;
+}
+.eee{
+	text-align: center;
+	font-size: 25px;
+	display: inline-block;
+        background: #F15A22;
+        color: #ffffff;
+}

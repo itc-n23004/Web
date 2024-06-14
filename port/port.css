@@ -1,0 +1,28 @@
+@charset "utf-8";
+.heading{
+	color: #F15A22
+}
+body{
+	 background-image: url("images/abc.png");
+  background-size: cover;
+}
+
+.headline {
+	font-size:50px;
+	text-align: center;
+	color: #000080
+}
+.ccc{
+  display: inline-block;
+  font-size: 2.5rem;
+  background: #0071B0;
+  color: #ffffff;
+}
+.bbb{
+	float: right;
+	text-align: right;
+	font-size: 20px;
+}
+.ddd{
+	float: right;
+}
